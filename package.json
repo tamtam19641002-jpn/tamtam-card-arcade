@@ -1,0 +1,11 @@
+{
+  "name": "tamtam-card-arcade",
+  "version": "1.0.0",
+  "description": "4つのオンライン・トランプゲームをまとめた入口サイト",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
